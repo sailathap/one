@@ -184,7 +184,7 @@
     <section id="skills" class="skills">
         <h2>Skills</h2>
         <ul>
-            <li>CI/CD - Jenkins, GitHub Actions</li>
+           
             <li>Containerization - Docker</li>
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
